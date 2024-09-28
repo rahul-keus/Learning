@@ -1,2 +1,3 @@
 This is the file 1.
 Adding additional info
+Line added from GUI.
